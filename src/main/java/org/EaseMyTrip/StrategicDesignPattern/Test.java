@@ -10,7 +10,7 @@ public class Test {
 
        int num4= context.runstrategy("Addition").doOperations(56, 34);
        System.out.println(num4);
-        System.out.println(num4+num3);
+        System.out.println(num4+num4);
 
     }
 }
